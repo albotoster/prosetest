@@ -1,5 +1,7 @@
 ## A New Post
 Вот через хром вошел
+
+
 А тут уже какой-то "шаблон", и что:
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
@@ -9,3 +11,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 Плоховато у нас с типографикой: тире должно быть, а не дефис. Но мелькнула у меня догадка.
 
 What about native - is will be typographic?
+1. djn
+2. тире нету
+3. item
+
